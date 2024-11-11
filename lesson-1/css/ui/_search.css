@@ -1,0 +1,26 @@
+.search-form{ 
+    width: 326px;
+    height: 48px;
+    background-color: #ffff;
+    padding: 8px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.search-form--btn { 
+    width: 32px;
+    height: 32px;
+    background-color: #402f2c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-form--input::placeholder { 
+    color: #999999;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20;
+}
