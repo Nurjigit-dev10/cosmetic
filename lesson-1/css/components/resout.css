@@ -1,0 +1,10 @@
+.result-content{
+        display:flex;
+        align-items: center;
+        justify-content:space-between;
+    } 
+
+.result-content{ 
+     background-color: #fdf8f5;
+
+}
